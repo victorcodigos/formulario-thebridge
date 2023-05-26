@@ -1,0 +1,19 @@
+html,body{
+  
+  
+    height:100%;
+    padding: 15px;
+    color: black;
+    
+    
+  
+  
+  
+  }
+  
+  .myDiv {
+    border: 10px outset rgb(236, 0, 217);
+    background-color: rgb(6, 169, 180);    
+    text-align: center;
+  }
+  
